@@ -4805,7 +4805,7 @@ a.label:focus {
   padding: 3px 7px;
   font-size: 12px;
   font-weight: bold;
-  color: #ffffff;
+  color: #333333;
   line-height: 1;
   vertical-align: baseline;
   white-space: nowrap;
@@ -4834,7 +4834,7 @@ a.badge:focus {
 .list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
   color: #333333;
-  background-color: #ffffff;
+  background-color: #333333;
 }
 .list-group-item > .badge {
   float: right;
